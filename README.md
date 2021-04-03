@@ -1,2 +1,2 @@
 # coincheck-rate-monitor
-Blink LED when BTC price drop
+Blink LED when BTC price drops
